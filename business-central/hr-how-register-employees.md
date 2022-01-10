@@ -18,7 +18,7 @@ ms.author: edupont
 # Register Employees
 To use the Human Resources functionality, you must first add each employee by filling out the fields on the **Employee Card** page.
 
-## Adding new customers
+## Adding new employees
 You can add new employees manually, by filling out the fields on the **Employee Card** page, or you can use templates that contain predefined information. For example, you can create a templates for different types of employee profiles. Using templates saves time when adding new employees, and helps ensure that the information is correct each time. If you create templates for more than one type of employee, you can choose the template to use when you add an employee. If you create only one template it will be used for all new employees. After you create a template, you can use the **Apply Template** action to apply it to one or more selected employees. To create a template, you fill in the information that you want to reuse on the Employee Card page, and then save it as a template.
 
 > [!TIP]
